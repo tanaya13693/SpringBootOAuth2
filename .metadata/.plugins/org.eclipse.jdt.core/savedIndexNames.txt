@@ -1,0 +1,1 @@
+INDEX VERSION 1.130+C:\Users\tvadgave\Desktop\Tanaya\Eclipse Workspace\SpringBootOAuth2\.metadata\.plugins\org.eclipse.jdt.core
