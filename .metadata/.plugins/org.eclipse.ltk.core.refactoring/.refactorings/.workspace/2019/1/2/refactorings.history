@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;SpringBootOAuth2&apos;" deleteContents="false" description="Delete resource &apos;SpringBootOAuth2&apos;" element1="/SpringBootOAuth2" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1546744772612"/>&#x0A;<refactoring comment="Delete resource &apos;SprintBootClientApp&apos;" deleteContents="false" description="Delete resource &apos;SprintBootClientApp&apos;" element1="/SprintBootClientApp" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1546744779818"/>
+</session>

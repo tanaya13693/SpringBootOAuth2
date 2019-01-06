@@ -1,0 +1,10 @@
+package com.example.demo.controllers;
+
+@Controller
+public class EmployeeController {
+
+    @RequestMapping(value = "/getEmployees", method = RequestMethod.GET)
+    public ModelAndView getEmployeeInfo() {
+        return new ModelAndView("getEmployees");
+    }
+}

@@ -1,0 +1,5 @@
+package com.example.demo.configurations;
+
+public class EmployeeSecurityConfiguration extends WebSecurityConfigurerAdapter{
+
+}

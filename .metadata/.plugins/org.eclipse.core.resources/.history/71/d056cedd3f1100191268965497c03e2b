@@ -1,0 +1,9 @@
+package com.example.demo.configurations;
+
+import org.springframework.security.oauth2.config.annotation.web.configuration.AuthorizationServerConfigurerAdapter;
+
+@Configuration
+@EnableAuthorizationServer
+public class AuthServerOAuth2Config extends AuthorizationServerConfigurerAdapter{
+
+}
